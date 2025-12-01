@@ -5,21 +5,23 @@ Real-time drowsiness detection using facial landmarks, Eye Aspect Ratio (EAR), a
 ---
 
 ## 📋 Table of Contents
-- Overview  
-- Features  
-- System Architecture  
-- Project Structure  
-- Installation  
-- Dataset  
-- Algorithm Details (EAR + PERCLOS)  
-- Training (Optional for CNN/Landmark Refinement)  
-- Deployment on Jetson Nano  
-- Results  
-- Literature Review  
-- Team  
-- Acknowledgments  
-- References  
-- License  
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [System Architecture](#-system-architecture)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Dataset](#-dataset)
+- [Algorithm Details (EAR + PERCLOS)](#-algorithm-details-ear--perclos)
+- [Training (Optional for CNN/Landmark Refinement)](#-training-optional-for-cnnlandmark-refinement)
+- [Deployment on Jetson Nano](#-deployment-on-jetson-nano)
+- [Results](#-results)
+- [Literature Review](#-literature-review)
+- [Team](#-team)
+- [Acknowledgments](#-acknowledgments)
+- [References](#-references)
+- [License](#-license)
+
 
 ---
 
@@ -206,9 +208,12 @@ python3 src/main.py
 ---
 
 # 👥 Team
-- Student Name 1  
-- Student Name 2  
-- Supervisor  
+| Name             | Role                        | Responsibilities                                                                 |
+|-----------------|-----------------------------|-------------------------------------------------------------------------------|
+| Imran Ali        | Research & Documentation Lead | Literature review, proposal writing, GitHub management, final report          |
+| Ali Ahsan        | Simulation & Training Lead    | Dataset preparation, model training, algorithm pipeline, Google Colab         |
+| H. Adeela Arif   | Embedded Systems Lead         | Jetson Nano deployment, TensorRT optimization, hardware benchmarking          |
+
 
 ---
 
