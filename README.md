@@ -3,8 +3,6 @@
 Real-time drowsiness detection using facial landmarks, Eye Aspect Ratio (EAR), and PERCLOS metrics, deployed on NVIDIA Jetson Nano 4GB with OpenCV and Dlib.
 
 ---
-
-## 📋 Table of Contents
 ## 📋 Table of Contents
 - [Overview](#-overview)
 - [Features](#-features)
