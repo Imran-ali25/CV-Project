@@ -211,8 +211,8 @@ python3 src/main.py
 | Name             | Role                        | Responsibilities                                                                 |
 |-----------------|-----------------------------|-------------------------------------------------------------------------------|
 | Imran Ali        | Research & Documentation Lead | Literature review, proposal writing, GitHub management, final report          |
-| Ali Ahsan        | Simulation & Training Lead    | Dataset preparation, model training, algorithm pipeline, Google Colab         |
-| H. Adeela Arif   | Embedded Systems Lead         | Jetson Nano deployment, TensorRT optimization, hardware benchmarking          |
+| Ali Ahsan        | Embedded Systems Lead         | Jetson Nano deployment, TensorRT optimization, hardware benchmarking          |
+| H. Adeela Arif   | Simulation & Training Lead    | Dataset preparation, model training, algorithm pipeline, Google Colab         |
 
 
 ---
